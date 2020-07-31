@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.android.theme.rr.nightdark"
+	android:versionCode="1"
+	android:versionName="1.0">
+    <overlay
+		android:priority="1"
+		android:targetPackage="android"
+		android:category="android.theme.customization.rr_tools_icon"/>
+	<application
+		android:label="Plain on Dark / Accent on Light"
+		android:hasCode="false"/>
+</manifest>
