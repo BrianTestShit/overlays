@@ -27,5 +27,17 @@
     <color name="secondary_device_default_settings">#ff3a3a3a</color>
     <color name="system_error">#ffea4335</color>
     <color name="tertiary_device_default_settings">#ff616161</color>
+    <color name="material_grey_900">#FF002b36</color>
+    <color name="material_grey_850">#FF002b36</color>
+    <color name="material_grey_800">#FF002b36</color>
+    <color name="material_grey_600">#FF002b36</color>
+    <color name="material_grey_300">#FF002b36</color>
+    <color name="material_grey_200">#FF002b36</color>
+    <color name="material_grey_100">#FF002b36</color>
+    <color name="material_grey_50">#FF002b36</color>
+    <color name="primary_material_dark">#FF002b36</color> <!-- material_grey_900 -->
+    <color name="primary_material_settings">#FF002b36</color> <!-- material_grey_900 -->
+    <color name="primary_dark_material_dark">#FF002b36</color>
+    <color name="primary_dark_material_settings">#FF002b36</color> <!-- material_grey_850 -->
 
 </resources>
